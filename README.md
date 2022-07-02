@@ -54,11 +54,11 @@
 ---------------------------------------
 
 ### ❗ Disclaimers
-> **Warning** -> I am not responsible for anything that may happen, such as, API Blocking, Account Termination, etc.
+> **Warning** I am not responsible for anything that may happen, such as, API Blocking, Account Termination, etc.
 > 
-> **Warning** -> This **may** slow down your wifi and/or host computer
+> **Warning** This **may** slow down your wifi and/or host computer
 > 
-> **Warning** -> This was a quick project that was made for fun, so if you want to see further updates, star the repo & create an "issue" [here](https://github.com/imvast/Tiktok-MassReporter/issues/new/choose)
+> **Note** This was a quick project that was made for fun, so if you want to see further updates, star the repo & create an "issue" [here](https://github.com/imvast/Tiktok-MassReporter/issues/new/choose)
 
 ---------------------------------------
 
