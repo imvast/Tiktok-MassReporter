@@ -68,10 +68,3 @@
 v0.1 ⋮ 6/29/2022
 + Uploaded Files (github)
 ```
-
----------------------------------------
----
-
-### * README CREDITS *
-> **Note** This README was inspired by [@dropout1337](https://github.com/dropout1337) <3
-- [he dont care if i use it lol](https://cdn.discordapp.com/attachments/901999809404219444/901999816681324634/unknown.png)
