@@ -1,6 +1,6 @@
 import os
 try: import httpx, asyncio, tasksio, random, threading, pystyle, cursor, time, sys
-except: z = "python -m pip install"; os.system('%shttpx' % (z)); os.system('%sasyncio' % (z)); os.system('%stasksio' % (z)); os.system('%spystyle' % (z)); os.system('%scursor' % (z))
+except: z = "python -m pip install "; os.system('%shttpx' % (z)); os.system('%sasyncio' % (z)); os.system('%stasksio' % (z)); os.system('%spystyle' % (z)); os.system('%scursor' % (z))
 
 
 class TikTok:
